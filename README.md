@@ -17,3 +17,14 @@ from the user and it can
 
 ![alt text](https://github.com/SRVikash/Simple-database-using-python-tkinter/blob/main/screenshots/recording.gif)
 
+## Note must decomment this line to create a new record 
+'''
+c.execute(""" CREATE TABLE record (
+firstname text,
+lastname text,
+address text,
+city text,
+state text,
+pincode integer
+)""")
+'''
