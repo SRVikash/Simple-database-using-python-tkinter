@@ -13,7 +13,7 @@ to collect the information:
 from the user and it can 
 ##### show the records ,delete the record using id and update the record using ID
 
-# SAMPLE GIF
+# SAMPLE:
 
 ![alt text](https://github.com/SRVikash/Simple-database-using-python-tkinter/blob/main/screenshots/recording.gif)
 
